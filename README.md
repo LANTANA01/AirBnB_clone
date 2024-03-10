@@ -4,7 +4,7 @@
 This project is a command-line interpreter that allows users to interact with the system through commands. The interpreter provides a set of functionalities to perform various operations efficiently.
 
 ## How to Start the Command Interpreter
-To start the command interpreter, follow these steps:
+These are steps to follow to start the command interpreter:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run the command `python interpreter.py` to start the command interpreter.
